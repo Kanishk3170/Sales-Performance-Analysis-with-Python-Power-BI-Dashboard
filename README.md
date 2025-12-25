@@ -1,13 +1,37 @@
 # Data Analytics in Sales Domain
 
-## Overview
-This project focuses on applying data analytics techniques to the sales domain. The goal is to derive insights that can help improve sales performance and drive business strategies.
+# Project Overview
 
-## Excel Sheet
-- The Excel file provided in the repository is used in the project.
+This project focuses on analyzing retail sales data using Python and presenting insights through an interactive Power BI dashboard. The objective is to understand sales performance, customer purchasing behavior, and category-wise trends through data-driven analysis.
 
-## Files Included
-- Detailed reports
-- Code files
-- Documentation on analytics methodologies
-- Visualizations and dashboards
+# Project Workflow
+
+Collected and reviewed raw sales data
+
+Cleaned and transformed data using Python
+
+Performed exploratory data analysis (EDA) to identify trends and patterns
+
+Prepared a structured dataset for visualization
+
+Designed an interactive Power BI dashboard to present key insights
+
+Tools and Technologies
+
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Power BI
+
+# Key Insights
+
+Identified high-performing product categories
+
+Analyzed regional sales performance
+
+Observed sales trends across different customer segments
+
+Built dashboard visuals to support business decision-making
+
+# Outcome
+
+The project demonstrates a complete data analytics process — from handling raw data to delivering insights through dashboards — providing practical experience in sales analytics and business intelligence reporting.
